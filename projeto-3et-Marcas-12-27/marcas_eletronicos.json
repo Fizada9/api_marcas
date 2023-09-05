@@ -1,0 +1,41 @@
+[
+    {
+        "nome": "Samsung Electronics",
+        "Fundacao": "1969",
+        "Criador": "Lee Byung-chull",
+        "local de fundacao": "Suwon, Coreia do Sul",
+        "Logo": "https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-5.png"
+    },
+
+    {
+        "nome": "Amazon",
+        "Fundacao": "1994",
+        "Criador": "Jeff Bezos",
+        "local de fundacao": "Bellevue, Washington, EUA",
+        "logo":"https://logodownload.org/wp-content/uploads/2014/04/amazon-logo.png"
+    },
+
+    {
+        "nome": "Google",
+        "Fundacao": "1998",
+        "Criador": "Larry Page e Sergey Brin",
+        "local de fundacao": "Menlo Park, Califórnia, EUA",
+        "logo":"https://logodownload.org/wp-content/uploads/2014/09/google-logo-1.png"        
+    },
+
+    {
+        "nome": "Apple",
+        "Fundacao": "1976",
+        "Criador": "Steve Jobs",
+        "local de fundacao": "Los Altos, Califórnia, EUA",
+        "logo":"https://logodownload.org/wp-content/uploads/2013/12/apple-logo-16.png"        
+    },
+
+    {
+        "nome": "Microsoft",
+        "Fundacao": "1975",
+        "Criador": "SBill Gates, Paul Allen",
+        "local de fundacao": "Albuquerque, Novo México, EUA",
+        "logo":"https://www.animesxis.com.br/wp-content/uploads/2017/06/Microsoft-logo.png"
+    }
+]

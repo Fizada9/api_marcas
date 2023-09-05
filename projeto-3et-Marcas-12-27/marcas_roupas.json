@@ -1,0 +1,41 @@
+[
+    {
+        "nome": "Gucci",
+        "Fundacao": "1921",
+        "Criador": "Guccio Gucci",
+        "local de fundacao": "Florença, Ialia",
+        "Logo": "https://logodownload.org/wp-content/uploads/2014/05/Gucci-logo.png"
+    },
+
+    {
+        "nome": "Louis Vuitton",
+        "Fundacao": "1845",
+        "Criador": "Louis Vuitton",
+        "local de fundacao": "Paris, França",
+        "Logo": "https://logo-download.com/images/louis-vuitton3.png?ezimgfmt=ngcb1/notWebP"
+    },
+
+    {
+        "nome": "Prada",
+        "Fundacao": "1913",
+        "Criador": "Mario Prada",
+        "local de fundacao": "Milão, Itália",
+        "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Prada.png"
+    },
+
+    {
+        "nome": "Dior",
+        "Fundacao": "1946",
+        "Criador": "Christian Dior",
+        "local de fundacao": "Paris, França",
+        "Logo": "https://logodownload.org/wp-content/uploads/2017/04/dior-logo.png"
+    },
+
+    {
+        "nome": "Versace ",
+        "Fundacao": "1978",
+        "Criador": "Gianni Versace",
+        "local de fundacao": "Milão, Itália",
+        "Logo": "https://marcas-logos.net/wp-content/uploads/2019/11/Versace-Logo.png"
+    }  
+]
